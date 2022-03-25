@@ -1,0 +1,29 @@
+.shop-container {
+  display: grid;
+  grid-template-columns: 3.8fr 1.2fr;
+  margin-top: 30px;
+}
+
+.products-container {
+  display: grid;
+  grid-template-columns: repeat(3, 0.4fr);
+  grid-row-gap: 40px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+.cart-container {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  height: 300px;
+  padding: 0 30px;
+  border-top-left-radius: 20px;
+  border-end-start-radius: 20px;
+  background-color: rgb(245, 243, 243);
+  position: sticky;
+  top: 0;
+}
+
+.cart-container h3 {
+  margin-top: 60px;
+}

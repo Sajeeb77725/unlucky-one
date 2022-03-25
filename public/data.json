@@ -1,0 +1,74 @@
+[
+    {
+      "id": "623e00bdf9b5a75fe1b35e2e",
+      "picture": "https://i.pinimg.com/474x/8e/79/62/8e796221d31a3adff8b13166a5df8523.jpg",
+      "price": 122191,
+      "name": "Mach-Book Air"
+    },
+    {
+      "id": "623e00bd9487bd1ee101cb6e",
+      "picture": "https://i.pinimg.com/736x/b5/fb/5f/b5fb5f4716edc957765a88823174240b.jpg",
+      "price": 53500,
+      "name": "HP-pavilion"
+    },
+    {
+      "id": "623e00bdc50c2549b551885c",
+      "picture": "https://i.pinimg.com/564x/13/55/18/1355181c5a5a2499be8776199836bf24.jpg",
+      "price": 98000,
+      "name": "Microsoft Surface 3"
+    },
+    {
+      "id": "623e00bda5a240510efff141",
+      "picture": "https://i.pinimg.com/564x/4a/b0/97/4ab097b254d526a0bad296d7c122d11f.jpg",
+      "price": 78000,
+      "name": "Lenovo Yoga 7"
+    },
+    {
+      "id": "623e00bde085569ed998354a",
+      "picture": "https://i.pinimg.com/564x/56/78/9c/56789cec8a420e48c8203cc2d13c2027.jpg",
+      "price": 160000,
+      "name": "Asus Introduces"
+    },
+    {
+      "id": "623e00bde085569ed998354b",
+      "picture": "https://i.pinimg.com/564x/90/b6/65/90b66594f6f53842bce25966c4f4fee5.jpg",
+      "price": 61000,
+      "name": "Acer Swift 3"
+    },
+    {
+      "id": "623e00bde085569ed998354c",
+      "picture": "https://i.pinimg.com/564x/28/98/33/28983397f1be517206ecee6cfeff3ecb.jpg",
+      "price": 120000,
+      "name": "Lenovo Legion 5"
+    },
+    {
+      "id": "623e00bde085569ed998354d",
+      "picture": "https://i.pinimg.com/564x/bd/ed/12/bded12f13530b7760ff218c942a32753.jpg",
+      "price": 91000,
+      "name": "Dell Reinvents"
+    },
+    {
+      "id": "623e00bde085569ed998354e",
+      "picture": "https://i.pinimg.com/564x/0a/eb/c0/0aebc043d172c4173922e89d9704900c.jpg",
+      "price": 170000,
+      "name": "HP Spectre"
+    },
+    {
+      "id": "623e00bde085569ed998354f",
+      "picture": "https://i.pinimg.com/564x/cc/46/ec/cc46ec555772f877328ec0aa3d23fe24.jpg",
+      "price": 110000,
+      "name": "Microsoft Surface 4"
+    },
+    {
+      "id": "623e00bde085569ed998354g",
+      "picture": "https://i.pinimg.com/564x/15/f5/20/15f5207a28da7e31cf0da6f172b66c25.jpg",
+      "price": 230000,
+      "name": "Apple Mach-Book Pro"
+    },
+    {
+      "id": "623e00bde085569ed998354h",
+      "picture": "https://i.pinimg.com/564x/d7/56/10/d75610b6b32b27ed426d5860b4a296e3.jpg",
+      "price": 119990,
+      "name": "HP X-360"
+    }
+  ]

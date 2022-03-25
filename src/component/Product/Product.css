@@ -1,0 +1,28 @@
+.product {
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+  width: 280px;
+}
+
+.product img {
+  width: 280px;
+  height: 280px;
+  border-radius: 15px;
+  padding: 8px;
+}
+
+.product-info {
+  padding: 10px;
+}
+
+.product-info button {
+  border: none;
+  padding: 5px 25px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.product-info button:hover {
+  background-color: rgb(235, 57, 205);
+  color: white;
+}
