@@ -16,9 +16,19 @@ const Shop = () => {
 
     const handleProductBtn = (product) =>{
         const newCart = [...cart, product];
-        setCart(newCart);
+        if(newCart.length > 4){
+            alert('You can choose only 4 laptop')
+            return;
+        }
+        else{
+            setCart(newCart);
+        }    
+        
     }
 
+    const chooseAgain = () =>{
+        setCart([]);
+    }
 
     return (
         <div className='shop-container'>
@@ -32,13 +42,19 @@ const Shop = () => {
                 }
             </div>
             <div className="cart-container">
-            <h3>Selected Laptops</h3>
+              <h3>Selected Laptops</h3>
                 {
                     cart.map(product => <Cart 
                         product={product}
                         key={product.id}
-                        ></Cart>)
+                    ></Cart>)
                 }
+                <div>
+                    <button>CHOOSE 1 FOR ME</button>
+                </div>
+                <div>
+                    <button onClick={chooseAgain}>CHOOSE AGAIN</button>
+                </div>
             </div>
         </div>
     );

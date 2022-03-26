@@ -27,3 +27,7 @@
 .cart-container h3 {
   margin-top: 60px;
 }
+
+.cart-container button {
+  color: green;
+}
