@@ -1,0 +1,16 @@
+.ques {
+  border: 3px solid gray;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+  .ques {
+    width: 380px;
+    border: 3px solid gray;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+}

@@ -1,6 +1,6 @@
 # Laptop Seller
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Laptop Seller React App](https://chimerical-flan-b23a32.netlify.app/).
 
 ## Available Scripts
 
