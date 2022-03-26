@@ -26,3 +26,22 @@
   background-color: rgb(235, 57, 205);
   color: white;
 }
+
+@media only screen and (max-width: 600px) {
+  .product {
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    width: 180px;
+  }
+
+  .product img {
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    padding: 8px;
+  }
+
+  .product-info {
+    padding: 10px;
+  }
+}

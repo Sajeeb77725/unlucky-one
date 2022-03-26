@@ -14,6 +14,7 @@ const Shop = () => {
             .then(data => setProducts(data))
     },[])
 
+    //handle product btn
     const handleProductBtn = (product) =>{
         const newCart = [...cart, product];
         if(newCart.length > 4){
@@ -22,10 +23,12 @@ const Shop = () => {
         }
         else{
             setCart(newCart);
-        }    
-        
+        }     
     }
 
+    //choose 1 for me
+
+    //choose again btn
     const chooseAgain = () =>{
         setCart([]);
     }
